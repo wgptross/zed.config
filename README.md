@@ -1,8 +1,8 @@
-# zed.config
+## zed.config
 
 My personal theme / config I use for the Zed editor. 
 
-# Other / Links: 
+## Other / Links: 
 
 https://zed.dev/
 
