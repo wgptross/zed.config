@@ -2,7 +2,7 @@
 
 My personal theme / config I use for the Zed editor. 
 
-## Other / Links: 
+## other / links: 
 
 https://zed.dev/
 
